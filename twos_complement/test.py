@@ -1,3 +1,3 @@
-from two_complement import two_complemts
+from twos_complement import twos_complement
 
-print(two_complemts('00000100'))
+print(twos_complement('00000100'))

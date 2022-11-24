@@ -1,5 +1,5 @@
 
-def two_complemts(binary):
+def twos_complement(binary):
     """
     Takes a binary string as input and returns the two's complement of that binary string
     """
