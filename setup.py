@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
  
 VERSION = '0.0.0'
-DESCRIPTION = "converts different colour formats. "
+DESCRIPTION = "converts binary to twos complements binary. "
 
 setup(
     name='twos_complement',
